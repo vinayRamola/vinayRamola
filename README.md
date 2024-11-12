@@ -42,11 +42,6 @@ public:
 ### Development Tools
 - ![Git]([https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white](https://img.icons8.com/?size=100&id=38389&format=png&color=000000)) ![Docker]([https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white](https://img.icons8.com/?size=100&id=22797&format=png&color=000000))
 
-## 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&langs_count=8"/>
-</div>
 
 ## 💻 Core Competencies
 - **C++ Development**
@@ -62,7 +57,7 @@ public:
   - JWT Authentication
 
 ## 📫 Let's Connect
-- 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/vinay-chand-ramola-970061223/))
+- 💼 [LinkedIn]([https://linkedin.com/in/vinay-chand-ramola-970061223/](https://www.linkedin.com/in/vinay-chand-ramola-970061223/))
 <-- - 🌐 [Portfolio](https://your-website.com) -->
 - 📧 Email: vinaychandramola4@gmail.com
 
