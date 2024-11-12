@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Vinay Chand Ramola
 ### C++ Developer | MERN Stack Engineer | Tech Enthusiast
 <--
-![Profile Views]()
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/vinay-chand-ramola-970061223/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/vinay-chand-ramola-970061223/)
+
 -->
 
 ## 🚀 About Me
