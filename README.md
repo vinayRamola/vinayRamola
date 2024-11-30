@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Vinay Chand Ramola
 ### C++ Developer | MERN Stack Engineer | Tech Enthusiast
-<-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/vinay-chand-ramola-970061223/) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/vinay-chand-ramola-970061223/) 
 
 ## 🚀 About Me
 Passionate developer specializing in C++ applications and full-stack web development with the MERN stack. I love optimizing performance, solving complex problems, and building scalable web applications.
@@ -55,7 +55,6 @@ public:
 
 ## 📫 Let's Connect
 - 💼 [LinkedIn]([https://linkedin.com/in/vinay-chand-ramola-970061223/](https://www.linkedin.com/in/vinay-chand-ramola-970061223/))
-<-- - 🌐 [Portfolio](https://your-website.com) -->
 - 📧 Email: vinaychandramola4@gmail.com
 
 ## 🎯 Current Focus
